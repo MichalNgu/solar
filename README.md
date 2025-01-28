@@ -10,5 +10,5 @@ Tento projekt je jednoduchou simulací solárního systému vytvořenou pouze po
 - **Pozadí**: Pozadí je plné hvězd, které jemně blikají.
 
 ## Screenshoty
-![Screenshot 1](C:\Users\medvi\OneDrive\Obrázky\Snímky obrazovky\solar1.png)
-![Screenshot 2](C:\Users\medvi\OneDrive\Obrázky\Snímky obrazovky\solar1.png)
+![Screenshot 1](solar1.png)
+![Screenshot 2](solar2.png)
